@@ -15,7 +15,7 @@ using namespace std;
         system ("cls");
         cout << endl;
         cout << "Listado de Productos";
-        cout << "*********************";
+        cout << "*********************\n";
         cout << "Codigo, Descripcion y Existencia" << endl;
 
         for (int i = 0; i < 5; i++ )
