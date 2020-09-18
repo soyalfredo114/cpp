@@ -14,7 +14,7 @@ using namespace std;
     void listarProductos() {
         system ("cls");
         cout << endl;
-        cout << "Listado de Productos";
+        cout << "Listado de Productos\n";
         cout << "*********************\n";
         cout << "Codigo, Descripcion y Existencia" << endl;
 
